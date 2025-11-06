@@ -1,4 +1,4 @@
-# pkc-mark-benchmark
+# pkc-mark-benchmark <meta name="google-site-verification" content="TNsZy_tGv3QuO0j68Oh4yb5-HNV560b38mlFLbwFibI" />
 A local AI benchmark tool for testing LLM, Diffusers, and Transformers models.
 
 # 🧩 PKC MARK Benchmark Tool
