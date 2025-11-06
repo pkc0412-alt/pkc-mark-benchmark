@@ -17,7 +17,8 @@ Originally built as part of a personal multimodal chatbot project, later renewed
 * **Result History & Comparison** — All benchmark results are saved to the browser (LocalStorage) and can be compared side-by-side.
 * **Flexible Options** — Model caching, parallel loading, auto retry on low VRAM, adjustable GPU layers, and more.
 
----
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_01.jpg)
+
 
 ## ⚙️ Installation & Execution
 
