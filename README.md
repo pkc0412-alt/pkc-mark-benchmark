@@ -83,5 +83,3 @@ Originally built as part of a personal multimodal chatbot project, later renewed
 * Email: [pkc0412@gmail.com](mailto:pkc0412@gmail.com)
 
 ---
-
-<meta name="google-site-verification" content="TNsZy_tGv3QuO0j68Oh4yb5-HNV560b38mlFLbwFibI" />
