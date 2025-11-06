@@ -18,7 +18,12 @@ Originally built as part of a personal multimodal chatbot project, later renewed
 * **Flexible Options** — Model caching, parallel loading, auto retry on low VRAM, adjustable GPU layers, and more.
 
 ![Mark_Benchmark](./images/PKC_Mark_Benchmark_01.jpg)
-
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_02.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_03.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_04.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_05.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_06.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_07.jpg)
 
 ## ⚙️ Installation & Execution
 
