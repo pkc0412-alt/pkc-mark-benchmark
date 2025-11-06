@@ -1,6 +1,22 @@
 # pkc-mark-benchmark
 A local AI benchmark tool for testing LLM, Diffusers, and Transformers models.
 
+## ✍️ Author
+
+**PKC**
+
+* Blog: [https://pkc0412.tistory.com/]
+* Email: [pkc0412@gmail.com]
+
+---
+
+## 📜 License
+
+* **Non-commercial / Open Source**: GPLv3
+* **Commercial use**: Separate commercial license required (contact: [pkc0412@gmail.com])
+
+---
+
 # 🧩 PKC MARK Benchmark Tool
 
 🚀 A **public benchmarking tool** to easily **measure, compare, and analyze** the performance of local AI models (LLM, Diffusers, Transformers).
@@ -68,18 +84,5 @@ Originally built as part of a personal multimodal chatbot project, later renewed
 
 ---
 
-## 📜 License
-
-* **Non-commercial / Open Source**: GPLv3
-* **Commercial use**: Separate commercial license required (contact: [pkc0412@gmail.com](mailto:pkc0412@gmail.com))
-
----
-
-## ✍️ Author
-
-**PKC**
-
-* Blog: [https://pkc0412.tistory.com/](https://pkc0412.tistory.com/)
-* Email: [pkc0412@gmail.com](mailto:pkc0412@gmail.com)
-
----
+**Keywords:**  
+AI, LLM, Llama, Transformers, Diffusers, Benchmark, PKC MARK, AI Benchmark, Model Test, Local LLM, Pipeline, FastAPI, VRAM, Inference, Token Speed, TTFT, GPU Benchmark, Machine Learning Performance, Open Source AI, Beta Version, PKC AI, AI Tool, AI Development, AI Engineering, AI Analysis, Python AI, LlamaCpp, CUBLAS, GGUF, AI Lab, AI Research, AI Project, AI Pipeline, Model Performance, AI Testing, Deep Learning, Neural Network, AI Framework, AI Visualization, AI Metrics, Local AI, Offline AI, AI Technology, ML Benchmark, PKC Tech
