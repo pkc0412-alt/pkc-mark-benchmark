@@ -1,3 +1,5 @@
+![Mark_Benchmark](./images/lama.jpg)
+
 # pkc-mark-benchmark
 A local AI benchmark tool for testing LLM, Diffusers, and Transformers models.
 
