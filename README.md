@@ -19,7 +19,7 @@ A local AI benchmark tool for testing LLM, Diffusers, and Transformers models.
 
 ---
 
-# 🧩 PKC MARK Benchmark Tool
+# 🧩 PKC MARK Benchmark Tool Beta V0.9
 
 🚀 A **public benchmarking tool** to easily **measure, compare, and analyze** the performance of local AI models (LLM, Diffusers, Transformers).
 Originally built as part of a personal multimodal chatbot project, later renewed and released as open source.
