@@ -25,8 +25,11 @@ Most benchmark tools require complex setup or command-line usage. PKC MARK remov
 If you can use a browser, you can benchmark your models — no coding or configuration headaches.
 
 ✅ **No technical background required**
+
 ✅ **Works fully offline (local)**
+
 ✅ **Auto-detects your models and type**
+
 ✅ **Visual results and real-time stats**
 
 ---
