@@ -13,16 +13,18 @@
 ## ✨ Overview
 
 **PKC MARK** is a **local AI benchmarking tool** that helps you test and compare **LLM, GGUF, Transformers** models with ease.
-Originally built as part of a multimodal chatbot project, it has evolved into a public open-source platform — designed not just for engineers, but also for **AI enthusiasts and non-experts** who want to explore their models intuitively.
+Originally built as part of a multimodal chatbot project, it has evolved into a public open-source platform — designed not just for engineers,
+but also for **AI enthusiasts and non-experts** who want to explore their models intuitively.
 
-> ⚠️ **Note:** This tool was created by a non-professional developer. Please keep that in mind when using it — functionality and stability may vary depending on your system environment.
+> ⚠️ **Note:** This tool was created by a non-professional developer.
+> Please keep that in mind when using it — functionality and stability may vary depending on your system environment.
 
 ---
 
 ## 💡 Why PKC MARK?
 
-Most benchmark tools require complex setup or command-line usage. PKC MARK removes that barrier. 💫
-If you can use a browser, you can benchmark your models — no coding or configuration headaches.
+Most benchmark tools require complex setup or command-line usage. PKC MARK removes that barrier.
+💫If you can use a browser, you can benchmark your models — no coding or configuration headaches.
 
 ✅ **No technical background required**
 
