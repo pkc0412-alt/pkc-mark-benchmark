@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner_pkc_mark.jpg" width="85%" alt="PKC MARK Benchmark Banner"/>
+  <img src="./images/./images/lama.jpg" width="85%" alt="PKC MARK Benchmark Banner"/>
 </p>
 
 <h1 align="center">🧩 PKC MARK Benchmark Tool Beta V0.9</h1>
