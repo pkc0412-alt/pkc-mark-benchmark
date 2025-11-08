@@ -24,6 +24,7 @@ but also for **AI enthusiasts and non-experts** who want to explore their models
 ## 💡 Why PKC MARK?
 
 Most benchmark tools require complex setup or command-line usage. PKC MARK removes that barrier.
+
 💫If you can use a browser, you can benchmark your models — no coding or configuration headaches.
 
 ✅ **No technical background required**
@@ -73,7 +74,7 @@ Most benchmark tools require complex setup or command-line usage. PKC MARK remov
 ## ✨ Features at a Glance
 
 * 🖥️ **Web UI** — Real-time control and visualization
-* ⚡ **Auto Model Detection** — GGUF, Diffusers, Transformers
+* ⚡ **Auto Model Detection** — GGUF, Transformers
 * 🔍 **Detailed Metrics** — VRAM, TTFT, TPS, GPU Power & Temp
 * 🧩 **Pipeline Integration** — Emotion/analysis model linking
 * 📊 **History & Comparison** — LocalStorage-based record tracking
