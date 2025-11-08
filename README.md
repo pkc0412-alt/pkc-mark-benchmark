@@ -72,6 +72,7 @@ Most benchmark tools require complex setup or command-line usage. PKC MARK remov
 ---
 
 ## ✨ Features at a Glance
+("Diffusers Image Generation Model: Not Implemented")
 
 * 🖥️ **Web UI** — Real-time control and visualization
 * ⚡ **Auto Model Detection** — GGUF, Transformers
