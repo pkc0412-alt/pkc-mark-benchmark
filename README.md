@@ -1,47 +1,35 @@
-![Mark_Benchmark](./images/lama.jpg)
+<p align="center">
+  <img src="./images/banner_pkc_mark.jpg" width="85%" alt="PKC MARK Benchmark Banner"/>
+</p>
 
-# pkc-mark-benchmark
-A local AI benchmark tool for testing LLM, Diffusers, and Transformers models.
+<h1 align="center">🧩 PKC MARK Benchmark Tool Beta V0.9</h1>
+<h3 align="center">🚀 Local AI Model Benchmarking for Everyone — even non-experts</h3>
 
-## ✍️ Author
-
-**PKC**
-
-* Blog: [https://pkc0412.tistory.com/]
-* Email: [pkc0412@gmail.com]
-
----
-
-## 📜 License
-
-* **Non-commercial / Open Source**: GPLv3
-* **Commercial use**: Separate commercial license required (contact: [pkc0412@gmail.com])
+<p align="center">
+  <b>Simple • Visual • Accessible</b><br>
+  Measure, compare, and analyze your local AI models without coding knowledge.
+</p>
 
 ---
 
-# 🧩 PKC MARK Benchmark Tool Beta V0.9
+## ✨ Overview
 
-🚀 A **public benchmarking tool** to easily **measure, compare, and analyze** the performance of local AI models (LLM, Diffusers, Transformers).
-Originally built as part of a personal multimodal chatbot project, later renewed and released as open source.
+**PKC MARK** is a **local AI benchmarking tool** that helps you test and compare **LLM, Diffusers, and Transformers** models with ease.
+Originally built as part of a multimodal chatbot project, it has evolved into a public open-source platform — designed not just for engineers, but also for **AI enthusiasts and non-experts** who want to explore their models intuitively.
 
 ---
 
-## ✨ Key Features
+## 💡 Why PKC MARK?
 
-* **Web-based UI** — Control all settings and view results in real time via `benchmark_canvas.html`.
-* **Auto Model Detection** — Automatically scans and classifies models in the folder specified in `config.json` (supports GGUF, Diffusers, Transformers).
-* **Detailed Metrics** — Measure VRAM usage, Time-To-First-Token (TTFT), Tokens Per Second (TPS), GPU power (W), and GPU temperature (°C).
-* **Pipeline Testing** — Automatically injects outputs from analysis models (e.g., emotion analysis) into LLM prompts for integrated testing.
-* **Result History & Comparison** — All benchmark results are saved to the browser (LocalStorage) and can be compared side-by-side.
-* **Flexible Options** — Model caching, parallel loading, auto retry on low VRAM, adjustable GPU layers, and more.
+Most benchmark tools require complex setup or command-line usage. PKC MARK removes that barrier. 💫
+If you can use a browser, you can benchmark your models — no coding or configuration headaches.
 
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_01.jpg)
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_02.jpg)
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_03.jpg)
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_04.jpg)
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_05.jpg)
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_06.jpg)
-![Mark_Benchmark](./images/PKC_Mark_Benchmark_07.jpg)
+✅ **No technical background required**
+✅ **Works fully offline (local)**
+✅ **Auto-detects your models and type**
+✅ **Visual results and real-time stats**
+
+---
 
 ## ⚙️ Installation & Execution
 
@@ -52,12 +40,12 @@ Originally built as part of a personal multimodal chatbot project, later renewed
    python -m venv venv
    .\venv\Scripts\activate
    ```
-3. **Install PyTorch** according to your CUDA version, then install other dependencies:
+3. **Install PyTorch** for your CUDA version, then other dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
-4. **Edit `config.json`** — Set your local model path in the line:
+4. **Edit `config.json`** — set your local model path:
 
    ```json
    {
@@ -68,23 +56,63 @@ Originally built as part of a personal multimodal chatbot project, later renewed
 5. **Run the server:**
 
    * Windows: `start_server_windows.bat`
-   * Or run manually:
+   * Or manually:
 
      ```bash
      python benchmark_server.py
      ```
-6. Once the server starts, your browser will automatically open `benchmark_canvas.html`. Start your benchmark from there.
+6. Browser will open automatically with `benchmark_canvas.html`. Start your benchmark visually 🎨
+
+---
+
+## ✨ Features at a Glance
+
+* 🖥️ **Web UI** — Real-time control and visualization
+* ⚡ **Auto Model Detection** — GGUF, Diffusers, Transformers
+* 🔍 **Detailed Metrics** — VRAM, TTFT, TPS, GPU Power & Temp
+* 🧩 **Pipeline Integration** — Emotion/analysis model linking
+* 📊 **History & Comparison** — LocalStorage-based record tracking
 
 ---
 
 ## 🧠 Model Detection Rules
 
-* `.gguf` → **Llama (GGUF)**
-* `model_index.json` → **Diffusers (image generation)**
-* `config.json` → **Transformers (text-based)**
-* Folder names containing `kluebert` or `emotion` → auto-classified as **analysis_model**
+| File Type / Pattern                          | Classification               |
+| -------------------------------------------- | ---------------------------- |
+| `.gguf`                                      | Llama (GGUF)                 |
+| `model_index.json`                           | Diffusers (image generation) |
+| `config.json`                                | Transformers (text-based)    |
+| Folder name includes `kluebert` or `emotion` | Analysis model               |
 
 ---
 
-**Keywords:**  
-AI, LLM, Llama, Transformers, Diffusers, Benchmark, benchmarking, PKC MARK, AI Benchmark, Model Test, Local LLM, Pipeline, FastAPI, VRAM, Inference, Token Speed, TTFT, GPU Benchmark, Machine Learning Performance, Open Source AI, Beta Version, PKC AI, AI Tool, AI Development, AI Engineering, AI Analysis, Python AI, LlamaCpp, CUBLAS, GGUF, AI Lab, AI Research, AI Project, AI Pipeline, Model Performance, AI Testing, Deep Learning, Neural Network, AI Framework, AI Visualization, AI Metrics, Local AI, Offline AI, AI Technology, ML Benchmark, PKC Tech, performance
+## 📜 License
+
+* **Non-commercial / Open Source**: GPLv3
+* **Commercial use**: Requires a separate license (contact: [[pkc0412@gmail.com])
+
+---
+
+## 👩‍💻 For Everyone — Not Just Developers
+
+Whether you’re an **AI beginner**, a **researcher**, or just **curious about model performance**, PKC MARK is made for you.
+With a simple interface, you can focus on **understanding results** — not debugging scripts.
+
+> 🧩 *"Benchmarking should be simple, transparent, and fun." — PKC*
+
+---
+
+<p align="center">
+  <img src="./images/PKC_Mark_Benchmark_01.jpg" width="80%" alt="PKC MARK Benchmark Screenshot"/>
+</p>
+
+<details>
+<summary>🔖 Keywords</summary>
+AI, LLM, Transformers, Diffusers, Benchmark, PKC MARK, Model Test, Local LLM, FastAPI, VRAM, TTFT, GPU Benchmark, Python AI, AI Development, ML Benchmark, AI Visualization, Local AI, AI Research, Open Source AI
+</details>
+
+---
+
+<p align="center">
+  <b>Created by PKC</b> · <a href="https://pkc0412.tistory.com/">Blog</a> · <a href="mailto:pkc0412@gmail.com">Contact</a>
+</p>
