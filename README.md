@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![Mark_Benchmark](./images/lama.jpg)" width="85%" alt="PKC MARK Benchmark Banner"/>
-</p>
+![Mark_Benchmark](./images/lama.jpg)
 
 <h1 align="center">🧩 PKC MARK Benchmark Tool Beta V0.9</h1>
 <h3 align="center">🚀 Local AI Model Benchmarking for Everyone — even non-experts</h3>
@@ -14,8 +12,10 @@
 
 ## ✨ Overview
 
-**PKC MARK** is a **local AI benchmarking tool** that helps you test and compare **LLM, Diffusers, and Transformers** models with ease.
+**PKC MARK** is a **local AI benchmarking tool** that helps you test and compare **LLM, GGUF, Transformers** models with ease.
 Originally built as part of a multimodal chatbot project, it has evolved into a public open-source platform — designed not just for engineers, but also for **AI enthusiasts and non-experts** who want to explore their models intuitively.
+
+> ⚠️ **Note:** This tool was created by a non-professional developer. Please keep that in mind when using it — functionality and stability may vary depending on your system environment.
 
 ---
 
@@ -89,7 +89,7 @@ If you can use a browser, you can benchmark your models — no coding or configu
 ## 📜 License
 
 * **Non-commercial / Open Source**: GPLv3
-* **Commercial use**: Requires a separate license (contact: [[pkc0412@gmail.com])
+* **Commercial use**: Requires a separate license (contact: [pkc0412@gmail.com])
 
 ---
 
@@ -100,11 +100,19 @@ With a simple interface, you can focus on **understanding results** — not debu
 
 > 🧩 *"Benchmarking should be simple, transparent, and fun." — PKC*
 
+> ⚠️ *Please note: This project was developed by a non-professional programmer. Expect occasional rough edges — but it works!* 🧡
+
 ---
 
-<p align="center">
-  <img src="./images/PKC_Mark_Benchmark_01.jpg" width="80%" alt="PKC MARK Benchmark Screenshot"/>
-</p>
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_01.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_02.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_03.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_04.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_05.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_06.jpg)
+![Mark_Benchmark](./images/PKC_Mark_Benchmark_07.jpg)
+
+---
 
 <details>
 <summary>🔖 Keywords</summary>
