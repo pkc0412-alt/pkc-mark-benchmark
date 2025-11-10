@@ -94,6 +94,7 @@ Most benchmark tools require complex setup or command-line usage. PKC MARK remov
 ---
 
 ![Mark_Benchmark](./images/GPT-20B vs ERNIE-4.5-21B.jpg)
+
 ![Mark_Benchmark](./images/Gemma-v3-27B와 Qwen-v3-30B.jpg)
 
 ---
